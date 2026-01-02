@@ -1,6 +1,10 @@
 ## Hi there 👋
 ![Metrics](/github-metrics.svg)
+
+<br/>
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=KBowei&theme=onedark&row=1&column=4)
+
 
 <!--
 **KBowei/KBowei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
